@@ -1,0 +1,4 @@
+[submodule "app/packages/meteor-opentelemetry-plugin"]
+	path = app/packages/meteor-opentelemetry-plugin
+	url = https://github.com/obonyojimmy/meteor-opentelemetry-plugin.git
+	branch = master
